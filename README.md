@@ -22,9 +22,6 @@ matplotlib
 scikit-learn
 seaborn
 
-How to Run the Code
-Clone the repository:  git clone https://github.com/<your-username>/DecisionTrees_WineQuality.git
-cd DecisionTrees_WineQuality
 
 ## Repository Structure
 - `Bhavya_ML_Tutorial_.ipynb`: Google Colab Notebook containing the full tutorial, including code and visualizations.
