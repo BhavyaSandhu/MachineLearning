@@ -37,8 +37,8 @@ seaborn
 
 ## How to run the code 
 1.Download the repository or clone it using the following command:
-https://github.com/BhavyaSandhu/MachineLearning/blob/698026a68e29d3943cc516f27a312e15dc6744d5/Bhavya_ML_Tutorial_.ipynb
-2.Open the  Notebook file (creditrisk_nn.ipynb) in your preferred environment, such as Jupyter Notebook, VSCode, or Google Colab.
+(https://github.com/BhavyaSandhu/MachineLearning.git)
+2.Open the  Notebook file in your preferred environment, such as Jupyter Notebook, VSCode, or Google Colab.
 3.Run the cells step-by-step to:
 -Load and preprocess the dataset.
 -Experiment with different architectures (depths and widths).
