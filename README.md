@@ -12,28 +12,17 @@ Objective: The objective of this case study is to explore and analyze the Wine Q
 ## Dataset
 The tutorial uses the **Wine Quality Dataset**, which contains physicochemical attributes of wines and their quality ratings. The dataset is preprocessed and analyzed within the notebook.
 
-Installation
-To replicate this project, ensure you have the following dependencies installed:
-
-Required Libraries
-numpy
-pandas
-matplotlib
-scikit-learn
-seaborn
-
 
 ## Repository Structure
 - `Bhavya_ML_Tutorial_.ipynb`: Google Colab Notebook containing the full tutorial, including code and visualizations.
 - `README.md`: Overview of the repository.
 - `LICENSE`: Terms of use for this repository.
 
-## Required Libraries
-scikit-learn
-pandas
-matplotlib
-seaborn
 
+## Required Libraries
+- sklearn
+- pandas, seaborn
+- matplotlib
 ## How to run the code 
 1.Download the repository or clone it using the following command:
 (https://github.com/BhavyaSandhu/MachineLearning.git)
