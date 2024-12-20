@@ -1,7 +1,6 @@
 # Machine LearningTutorial 
 Wine Quality Analysis with Decision Trees and Random Forests
-Name: Bhavya Sandhu
-ID: 23022333
+
 Objective: The objective of this case study is to explore and analyze the Wine Quality dataset using machine learning techniques. It involves tasks such as data loading, preprocessing, exploratory data analysis (EDA), model training, prediction, evaluation, and visualization.It contains a step-by-step tutorial on Decision Trees and Random Forests, focusing on feature importance and overfitting, using the Wine Quality dataset. The tutorial is designed to act as a teaching resource, providing clear explanations, runnable code, and insightful visualizations.
 
 ## Features
