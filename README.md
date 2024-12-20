@@ -29,7 +29,6 @@ seaborn
 - `LICENSE`: Terms of use for this repository.
 
 ## Required Libraries
-tensorflow
 scikit-learn
 pandas
 matplotlib
